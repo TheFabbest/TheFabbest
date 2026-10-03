@@ -1,7 +1,7 @@
-# Hi there, I'm TheFabbest 👋
-I am a computer science student at the University of Naples Federico II.
+# TheFabbest
+Computer science master's student at the University of Naples Federico II.
 
 ## Featured Projects
+* **[Lyndon-Factorization-of-Conjugates](https://github.com/TheFabbest/Lyndon-Factorization-of-Conjugates)** - The LaTeX source code for my bachelor's thesis on the Burrows-Wheeler Transform and its bijective variant. It tackles the open problem of finding the conjugate of a word with the "best" Bijective BWT. Specifically, the one yielding the fewest runs to optimize run-length encoding (RLE). It also improves an existing algorithm for computing the Lyndon factorization of all conjugates of a word.
+* **[factors-of-rotations](https://github.com/TheFabbest/factors-of-rotations)** - My bachelor's thesis project: a C++ implementation of a linear-time algorithm for computing the Lyndon factorization of all conjugates of a word. The implementation relies on the optimal linear-time computation of suffix arrays on general alphabets, Lyndon trees, Lyndon arrays, and the Burrows-Wheeler Transform (including its bijective variant).
 * **[language-support-for-plymouth](https://github.com/TheFabbest/language-support-for-plymouth)** - A VS Code extension providing full language support and syntax highlighting for the Plymouth scripting language.
-* **[Lyndon-Factorization-of-Conjugates](https://github.com/TheFabbest/Lyndon-Factorization-of-Conjugates)** - The LaTeX source code for my bachelor's thesis on the Burrows-Wheeler Transform and its bijective variant, with applications to data compression. It tackles the open problem of finding the conjugate of a word with the "best" Bijective BWT—specifically, the one yielding the fewest runs to optimize run-length encoding (RLE). It also improves an existing algorithm for computing the Lyndon factorization of all conjugates of a word.
-* **[factors-of-rotations](https://github.com/TheFabbest/factors-of-rotations)** - My bachelor's thesis project: a C++ implementation of a linear-time algorithm for computing the Lyndon factorization of all conjugates of a word. The implementation relies on the linear-time computation of suffix arrays on general alphabets, Lyndon trees, Lyndon arrays, and the Burrows-Wheeler Transform (including its bijective variant).
