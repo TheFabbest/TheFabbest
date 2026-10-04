@@ -1,5 +1,5 @@
 # TheFabbest
-Computer science master's student at the University of Naples Federico II.
+Fabrizio Apuzzo, computer science master's student at the University of Naples Federico II.
 
 ## Featured Projects
 * **[Lyndon-Factorization-of-Conjugates](https://github.com/TheFabbest/Lyndon-Factorization-of-Conjugates)** - The LaTeX source code for my bachelor's thesis on the Burrows-Wheeler Transform and its bijective variant. It tackles the open problem of finding the conjugate of a word with the "best" Bijective BWT. Specifically, the one yielding the fewest runs to optimize run-length encoding (RLE). It also improves an existing algorithm for computing the Lyndon factorization of all conjugates of a word.
